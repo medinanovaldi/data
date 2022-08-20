@@ -1,0 +1,25 @@
+000043992676 - alias test CMD(IDR) 2jt
+000043992502 - FSC SEL1(IDR)
+003546465240 - FSC BUY1(IDR)
+003554293880 - FSC BUYUSD1(USD)
+000048031702 - FSC SELUSD1(USD)
+
+000043992502 
+
+0140397 , 0160128810 - Bakti
+muhammad.lukmanul@danamon.co.id
+
+Inhouse idr-idr 1100 summery
+Inhouse idr-idr 10 summery
+Inhouse usd-usd 10 detail
+Skn idr-idr 10 summery
+Skn idr-idr 10 Detail
+
+[0:59] Mohamad Medina Novaldi
+
+000043992502-FSC SEL1 (IDR)inhouse
+000048031702-FSC SELUSD1 (USD) inhouse
+
+[2:21] Muhammad Lukmanul Hakim
+0140397 , 0160128810 - Bakti
+
